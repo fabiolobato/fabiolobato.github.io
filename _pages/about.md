@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior Lecturer @ UFOPA / UEMA; CNPq Fellowship; Passionate data scientist.
+subtitle: Lecturer @ UFOPA / UEMA; CNPq Fellowship; Passionate data scientist.
 
 profile:
   align: right
@@ -21,11 +21,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-In a well-connected world, the pervasiveness and impact of social media in our daily lives are unquestionable. One of the phenomena related to this fact is the massive production of user-generated content seen as a powerful data source on customer behavior. These data allowed innovation in existing approaches, such as Customer Relationship Management (CRM), which led to a concept known as Social CRM. This concept aims to use and integrate information from social media and traditional CRM systems through intelligent tools to improve results' reliability and provide new types of analysis. 
+In a well-connected world, the pervasiveness and impact of **social media** in our daily lives are unquestionable. One of the phenomena related to this fact is the massive production of user-generated content seen as a powerful data source on **customer behavior**. These data allowed innovation in existing approaches, such as Customer Relationship Management (CRM), which led to a concept known as **Social CRM**. This concept aims to use and integrate information from social media and traditional CRM systems through intelligent tools to improve results' reliability and provide new types of analysis. 
 
-Considering the economic importance of Micro, Small, and Medium Enterprises (MSMEs), representing about 90% of businesses and more than 50% of employment worldwide, according to the World Bank, and their close relationship to social media and Social CRM, the following research question drove my efforts in the past years: How to improve MSMEs' competitiveness through social media? An inter(multi)disciplinary approach was adopted to answer this question, integrating disciplines such as Information Systems, Data Science, Communication/Marketing, Law, etc. My research program embraces the synergies between these areas to design intelligent solutions for the complex MSME problems of today and tomorrow.
+Considering the economic importance of Micro, Small, and Medium Enterprises (MSMEs), representing about **90% of businesses** and more than 50% of employment worldwide, according to the World Bank, and their close relationship to social media and Social CRM, the following research question drove my efforts in the past years: *How to improve MSMEs' competitiveness through social media?* An inter(multi)disciplinary approach was adopted to answer this question, integrating disciplines such as Information Systems, Data Science, Communication/Marketing, Law, etc. My research program embraces the synergies between these areas to design **intelligent solutions for the complex MSME problems of today and tomorrow**.
 
-I am Lecturer in Engineering and Geoscience Institute, [Federal University of Western Pará (UFOPA)](http://www.ufopa.edu.br/ufopa/), Brazil; and also Associate lecturer at the State University of Maranhão, Brazil. Working primarily on Data Science, Social Networks and Media, and electronic markets.
+I am Lecturer in Engineering and Geoscience Institute, [Federal University of Western Pará (UFOPA)](http://www.ufopa.edu.br/ufopa/), Brazil; and also Associate lecturer at the State University of Maranhão, Brazil. Working primarily on Data Science, Social Networks and Media, and Electronic Markets.
 
 I'm leading the Applied Computing Research Group from UFOPA. I was visiting researcher at the University of Kent, UK, and Universidad Del País Vasco, ES, and Research Project Coordinator of the Prorectorate for Research and Innovation (UFOPA). 
 
