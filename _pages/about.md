@@ -21,33 +21,22 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+In a well-connected world, the pervasiveness and impact of social media in our daily lives are unquestionable. One of the phenomena related to this fact is the massive production of user-generated content seen as a powerful data source on customer behavior. These data allowed innovation in existing approaches, such as Customer Relationship Management (CRM), which led to a concept known as Social CRM. This concept aims to use and integrate information from social media and traditional CRM systems through intelligent tools to improve results' reliability and provide new types of analysis. 
 
-I am Lecturer in Engineering and Geoscience Institute, [Federal University of Western Pará (UFOPA)](http://www.ufopa.edu.br/ufopa/), Brazil; and also Associate lecturer at the State University of Maranhão, Brazil. I'm leading the Applied Computing Research Group from UFOPA. I was visiting researcher at the University of Kent, UK, and Universidad Del País Vasco, ES, and Research Project Coordinator of the Prorectorate for Research and Innovation (UFOPA). My main research areas are data science, social networks, and electronic markets.
+Considering the economic importance of Micro, Small, and Medium Enterprises (MSMEs), representing about 90% of businesses and more than 50% of employment worldwide, according to the World Bank, and their close relationship to social media and Social CRM, the following research question drove my efforts in the past years: How to improve MSMEs' competitiveness through social media? An inter(multi)disciplinary approach was adopted to answer this question, integrating disciplines such as Information Systems, Data Science, Communication/Marketing, Law, etc. My research program embraces the synergies between these areas to design intelligent solutions for the complex MSME problems of today and tomorrow.
 
-In a recent report, [Gartner](https://www.gartner.com/doc/reprints?id=1-27IIPKYV&ct=210923&st=sb) has 
-predicted that by 2024 more than 65% of all software development functions 
-will rely on some kind of model-based software engineering (MBSE) technology. 
-Nevertheless, there is still a long road before software engineering becomes a "model-based" discipline. 
+I am Lecturer in Engineering and Geoscience Institute, [Federal University of Western Pará (UFOPA)](http://www.ufopa.edu.br/ufopa/), Brazil; and also Associate lecturer at the State University of Maranhão, Brazil. Working primarily on Data Science, Social Networks and Media, and electronic markets.
 
-In practice, software models are often managed as tacit knowledge, paper sketches, or outdated artifacts. 
-This lack of explicit documentation constitutes a technical debt and has been the cornerstone of my research work.
+I'm leading the Applied Computing Research Group from UFOPA. I was visiting researcher at the University of Kent, UK, and Universidad Del País Vasco, ES, and Research Project Coordinator of the Prorectorate for Research and Innovation (UFOPA). 
 
-I am a postdoctoral researcher at **, 
-working primarily on MBSE, Formal Methods, Software Product Lines (SPL), and Artificial Intelligence (AI).
-
-With my research work, I aim to inform researchers and practitioners on the 
-effectiveness and efficiency of existing MBSE techniques through empirical studies; 
-and develop the next generation of MBSE concepts and tools for 
-designing and analyzing complex software systems. 
 
 Research Interests
 ------
 
-- Software Engineering (particularly, modeling, analysis, and testing)
-- Model-Based Testing (MBT) and Model-Driven Engineering (MDE)
-- Test Case Generation and Prioritization
-- Empirical Software Engineering
-- Software Product Lines (SPL)
+- Social Media Analysis
+- Deep Learning
+- Text mining
+- Social CRM
 - Active Model learning
 - Project Management
 - Open Science
