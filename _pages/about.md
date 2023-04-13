@@ -7,7 +7,7 @@ subtitle: Senior Lecturer @ UFOPA / UEMA; CNPq Fellowship; Passionate data scien
 profile:
   align: right
   image: fabio_ufopa.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
     <p>Radboud University</p>
     <p>Faculty of Science</p>
@@ -15,8 +15,8 @@ profile:
     <p>Toernooiveld 212</p>
     <p>6525 EC Nijmegen, NL</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
