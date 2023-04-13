@@ -12,8 +12,6 @@ profile:
     <p>Federal University of Western Pará</p>
     <p>School of Computing</p>
     <p>Engineering and Geoscience Institute</p>
-    <p>Rua Vera Paz, s/n (Unidade Tapajós</p>
-    <p> Bairro Salé | CEP 68040-255</p>
     <p>Santarém, Pará, Brazil</p>
 
 news: false  # includes a list of news items
