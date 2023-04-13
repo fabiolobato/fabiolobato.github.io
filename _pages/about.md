@@ -7,7 +7,7 @@ subtitle: Senior Lecturer @ UFOPA / UEMA; CNPq Fellowship; Passionate data scien
 profile:
   align: right
   image: fabio_ufopa.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p>Radboud University</p>
     <p>Faculty of Science</p>
