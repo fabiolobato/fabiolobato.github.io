@@ -12,13 +12,17 @@ profile:
     <p>Federal University of Western Pará</p>
     <p>School of Computing</p>
     <p>Engineering and Geoscience Institute</p>
-    <p>Rua Vera Paz, s/n (Unidade Tapajós) Bairro Salé | CEP 68040-255</p>
+    <p>Rua Vera Paz, s/n (Unidade Tapajós</p>
+    <p> Bairro Salé | CEP 68040-255</p>
     <p>Santarém, Pará, Brazil</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+
+
+I am Lecturer in Engineering and Geoscience Institute, [Federal University of Western Pará (UFOPA)](http://www.ufopa.edu.br/ufopa/), Brazil; and also Associate lecturer at the State University of Maranhão, Brazil. I'm leading the Applied Computing Research Group from UFOPA. I was visiting researcher at the University of Kent, UK, and Universidad Del País Vasco, ES, and Research Project Coordinator of the Prorectorate for Research and Innovation (UFOPA). My main research areas are data science, social networks, and electronic markets.
 
 In a recent report, [Gartner](https://www.gartner.com/doc/reprints?id=1-27IIPKYV&ct=210923&st=sb) has 
 predicted that by 2024 more than 65% of all software development functions 
@@ -28,7 +32,7 @@ Nevertheless, there is still a long road before software engineering becomes a "
 In practice, software models are often managed as tacit knowledge, paper sketches, or outdated artifacts. 
 This lack of explicit documentation constitutes a technical debt and has been the cornerstone of my research work.
 
-I am a postdoctoral researcher at **[Radboud University](https://www.ru.nl/english/people/nascimento-damasceno-c/)**, 
+I am a postdoctoral researcher at **, 
 working primarily on MBSE, Formal Methods, Software Product Lines (SPL), and Artificial Intelligence (AI).
 
 With my research work, I aim to inform researchers and practitioners on the 
