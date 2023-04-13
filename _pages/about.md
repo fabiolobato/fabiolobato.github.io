@@ -2,24 +2,57 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Senior Lecturer @ UFOPA / UEMA; CNPq Fellowship; Passionate data scientist.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: fabio_ufopa.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Radboud University</p>
+    <p>Faculty of Science</p>
+    <p>Institute for Computing and Information Sciences</p>
+    <p>Toernooiveld 212</p>
+    <p>6525 EC Nijmegen, NL</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+In a recent report, [Gartner](https://www.gartner.com/doc/reprints?id=1-27IIPKYV&ct=210923&st=sb) has 
+predicted that by 2024 more than 65% of all software development functions 
+will rely on some kind of model-based software engineering (MBSE) technology. 
+Nevertheless, there is still a long road before software engineering becomes a "model-based" discipline. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+In practice, software models are often managed as tacit knowledge, paper sketches, or outdated artifacts. 
+This lack of explicit documentation constitutes a technical debt and has been the cornerstone of my research work.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am a postdoctoral researcher at **[Radboud University](https://www.ru.nl/english/people/nascimento-damasceno-c/)**, 
+working primarily on MBSE, Formal Methods, Software Product Lines (SPL), and Artificial Intelligence (AI).
+
+With my research work, I aim to inform researchers and practitioners on the 
+effectiveness and efficiency of existing MBSE techniques through empirical studies; 
+and develop the next generation of MBSE concepts and tools for 
+designing and analyzing complex software systems. 
+
+Research Interests
+------
+
+- Software Engineering (particularly, modeling, analysis, and testing)
+- Model-Based Testing (MBT) and Model-Driven Engineering (MDE)
+- Test Case Generation and Prioritization
+- Empirical Software Engineering
+- Software Product Lines (SPL)
+- Active Model learning
+- Project Management
+- Open Science
+
+<br/>
+
+
+[comment]: <> (Write your biography here. Tell the world about yourself. Link to your favorite [subreddit]&#40;http://reddit.com&#41;{:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.)
+
+[comment]: <> (Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page]&#40;/al-folio/publications/&#41; automatically.)
+
+[comment]: <> (Link to your social media connections, too. This theme is set up to use [Font Awesome icons]&#40;http://fortawesome.github.io/Font-Awesome/&#41;{:target="\_blank"} and [Academicons]&#40;https://jpswalsh.github.io/academicons/&#41;{:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.)
