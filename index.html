@@ -10,9 +10,10 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>a post with formatting and links | You R. Name</title>
+    <title>You R. Name</title>
     <meta name="author" content="You R. Name">
-    <meta name="description" content="march &amp; april, looking forward to summer">
+    <meta name="description" content="A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+">
     <meta name="keywords" content="jekyll, jekyll-theme, academic-website, portfolio-website">
 
 
@@ -33,7 +34,7 @@
     <link rel="shortcut icon" href="data:image/svg+xml,&lt;svg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20100%20100%22&gt;&lt;text%20y=%22.9em%22%20font-size=%2290%22&gt;%E2%9A%9B%EF%B8%8F&lt;/text&gt;&lt;/svg&gt;">
     
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://fabiolobato.github.io/blog/2015/formatting-and-links/">
+    <link rel="canonical" href="https://fabiolobato.github.io/">
     
     <!-- Dark Mode -->
     
@@ -54,7 +55,7 @@
       <!-- Nav Bar -->
       <nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top">
         <div class="container">
-          <a class="navbar-brand title font-weight-lighter" href="//"><span class="font-weight-bold">You </span>R. Name</a>
+          
           <!-- Navbar Toggle -->
           <button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="sr-only">Toggle navigation</span>
@@ -67,13 +68,13 @@
             <ul class="navbar-nav ml-auto flex-nowrap">
 
               <!-- About -->
-              <li class="nav-item ">
-                <a class="nav-link" href="/">about</a>
+              <li class="nav-item active">
+                <a class="nav-link" href="/">about<span class="sr-only">(current)</span></a>
               </li>
               
               <!-- Blog -->
-              <li class="nav-item active">
-                <a class="nav-link" href="/blog/">blog<span class="sr-only">(current)</span></a>
+              <li class="nav-item ">
+                <a class="nav-link" href="/blog/">blog</a>
               </li>
 
               <!-- Other pages -->
@@ -113,95 +114,173 @@
 
     <!-- Content -->
     <div class="container mt-5">
-      <!-- _layouts/post.html -->
+      <!-- about.html -->
+      <div class="post">
+        <header class="post-header">
+          <h1 class="post-title">
+           <span class="font-weight-bold">You</span> R. Name
+          </h1>
+          <p class="desc">Senior Lecturer @ UFOPA / UEMA; CNPq Fellowship; Passionate data scientist.</p>
+        </header>
 
-<div class="post">
+        <article>
+          <div class="profile float-right">
 
-  <header class="post-header">
-    <h1 class="post-title">a post with formatting and links</h1>
-    <p class="post-meta">March 15, 2015</p>
-    <p class="post-tags">
-      <a href="//blog/2015"> <i class="fas fa-calendar fa-sm"></i> 2015 </a>
-        ·  
-        <a href="//blog/tag/formatting">
-          <i class="fas fa-hashtag fa-sm"></i> formatting</a>  
-          <a href="//blog/tag/links">
-          <i class="fas fa-hashtag fa-sm"></i> links</a>  
-          
-        ·  
-        <a href="//blog/category/sample-posts">
-          <i class="fas fa-tag fa-sm"></i> sample-posts</a>  
-          
+              <figure>
 
-    </p>
-  </header>
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/fabio_ufopa-480.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/fabio_ufopa-800.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/fabio_ufopa-1400.webp"></source>
+    
 
-  <article class="post-content">
-    <p>Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com" rel="external nofollow noopener" target="_blank">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice" rel="external nofollow noopener" target="_blank">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.</p>
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/fabio_ufopa.jpg" class="img-fluid z-depth-1 rounded" width="auto" height="auto" alt="fabio_ufopa.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
 
-<h4 id="hipster-list">Hipster list</h4>
+  </picture>
+
+</figure>
+
+            <div class="address">
+              <p>Radboud University</p> <p>Faculty of Science</p> <p>Institute for Computing and Information Sciences</p> <p>Toernooiveld 212</p> <p>6525 EC Nijmegen, NL</p>
+
+            </div>
+          </div>
+
+          <div class="clearfix">
+            <p>In a recent report, <a href="https://www.gartner.com/doc/reprints?id=1-27IIPKYV&amp;ct=210923&amp;st=sb" rel="external nofollow noopener" target="_blank">Gartner</a> has 
+predicted that by 2024 more than 65% of all software development functions 
+will rely on some kind of model-based software engineering (MBSE) technology. 
+Nevertheless, there is still a long road before software engineering becomes a “model-based” discipline.</p>
+
+<p>In practice, software models are often managed as tacit knowledge, paper sketches, or outdated artifacts. 
+This lack of explicit documentation constitutes a technical debt and has been the cornerstone of my research work.</p>
+
+<p>I am a postdoctoral researcher at <strong><a href="https://www.ru.nl/english/people/nascimento-damasceno-c/" rel="external nofollow noopener" target="_blank">Radboud University</a></strong>, 
+working primarily on MBSE, Formal Methods, Software Product Lines (SPL), and Artificial Intelligence (AI).</p>
+
+<p>With my research work, I aim to inform researchers and practitioners on the 
+effectiveness and efficiency of existing MBSE techniques through empirical studies; 
+and develop the next generation of MBSE concepts and tools for 
+designing and analyzing complex software systems.</p>
+
+<h2 id="research-interests">Research Interests</h2>
+
 <ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
+  <li>Software Engineering (particularly, modeling, analysis, and testing)</li>
+  <li>Model-Based Testing (MBT) and Model-Driven Engineering (MDE)</li>
+  <li>Test Case Generation and Prioritization</li>
+  <li>Empirical Software Engineering</li>
+  <li>Software Product Lines (SPL)</li>
+  <li>Active Model learning</li>
+  <li>Project Management</li>
+  <li>Open Science</li>
 </ul>
 
-<p>Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90’s yr typewriter selfies letterpress cardigan vegan.</p>
-
-<hr>
-
-<p>Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.</p>
-
-<blockquote>
-    We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-    —Anais Nin
-</blockquote>
-
-<p>Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.</p>
-
-  </article>
+<p><br></p>
 
 
-  
-    
-    <br>
-    <hr>
-    <br>
-    <ul class="list-disc pl-8"></ul>
+          </div>
 
-    <!-- Adds related posts to the end of an article -->
-    <h2 class="text-3xl font-semibold mb-4 mt-12">Enjoy Reading This Article?</h2>
-    <p class="mb-2">Here are some more articles you might like to read next:</p>
-  
+          <!-- News -->
+          <h2><a href="/news/" style="color: inherit;">news</a></h2>          
+          <div class="news">
+            <div class="table-responsive">
+              <table class="table table-sm table-borderless">
+               
+                <tr>
+                  <th scope="row">Jan 15, 2016</th>
+                  <td>
+                    A simple inline announcement with Markdown emoji! <img class="emoji" title=":sparkles:" alt=":sparkles:" src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png" height="20" width="20"> <img class="emoji" title=":smile:" alt=":smile:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png" height="20" width="20">
+ 
+                  </td>
+                </tr> 
+                <tr>
+                  <th scope="row">Nov 7, 2015</th>
+                  <td>
+                    <a class="news-title" href="/news/announcement_2/">A long announcement with details</a> 
+                  </td>
+                </tr> 
+                <tr>
+                  <th scope="row">Oct 22, 2015</th>
+                  <td>
+                    A simple inline announcement.
+ 
+                  </td>
+                </tr> 
+              </table>
+            </div> 
+          </div>
 
-  <li class="my-2">
-    <a class="text-pink-700 underline font-semibold hover:text-pink-800" href="//blog/2022/displaying-external-posts-on-your-al-folio-blog/">Displaying External Posts on Your al-folio Blog</a>
-  </li>
 
-  
+          <!-- Selected papers -->
+          <h2><a href="/publications/" style="color: inherit;">selected publications</a></h2>
+          <div class="publications">
+            <ol class="bibliography"><li>
+<!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"><abbr class="badge"><a href="https://journals.aps.org/" rel="external nofollow noopener" target="_blank">PhysRev</a></abbr></div>
 
-  <li class="my-2">
-    <a class="text-pink-700 underline font-semibold hover:text-pink-800" href="//blog/2022/giscus-comments/">a post with giscus comments</a>
-  </li>
+        <!-- Entry bib key -->
+        <div id="PhysRev.47.777" class="col-sm-8">
+        <!-- Title -->
+        <div class="title">Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?</div>
+        <!-- Author -->
+        <div class="author">
+        
 
-  
+        <em>A. Einstein</em>, <a href="https://en.wikipedia.org/wiki/Boris_Podolsky" rel="external nofollow noopener" target="_blank">B. Podolsky</a>, and <a href="https://en.wikipedia.org/wiki/Nathan_Rosen" rel="external nofollow noopener" target="_blank">N. Rosen</a>
+</div>
 
-  <li class="my-2">
-    <a class="text-pink-700 underline font-semibold hover:text-pink-800" href="//blog/2022/redirect/">a post with redirect</a>
-  </li>
+        <!-- Journal/Book title and date -->
+        
+        
+        <div class="periodical">
+          <em>Phys. Rev.,</em>, May 1935
+        </div>
+        <div class="periodical">
+          
+        </div>
 
-  
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+            <a href="https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">HTML</a>
+            <a href="/assets/pdf/example_pdf.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+          </div>
+          
+          <div class="badges">
+            <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right" data-doi="10.1103/PhysRev.47.777"></span>
+              <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRev.47.777" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 6px;"></span>
+          </div>
 
-  <li class="my-2">
-    <a class="text-pink-700 underline font-semibold hover:text-pink-800" href="//blog/2021/diagrams/">a post with diagrams</a>
-  </li>
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.</p>
+          </div>
+        </div>
+      </div>
+</li></ol>
+          </div>
 
-  
 
-  <li class="my-2">
-    <a class="text-pink-700 underline font-semibold hover:text-pink-800" href="//blog/2021/distill/">a distill-style blog post</a>
-  </li>
+          <!-- Social -->
+            <div class="social">
+              <div class="contact-icons">
+                <a href="mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D" title="email"><i class="fas fa-envelope"></i></a>
+            <a href="//feed.xml" title="RSS Feed"><i class="fas fa-rss-square"></i></a>
+            
+
+              </div>
+
+              <div class="contact-note">
+                You can even add a little note about which of these is the best way to reach you.
+
+              </div>
+              
+            </div>
+        </article>
 
 </div>
 
