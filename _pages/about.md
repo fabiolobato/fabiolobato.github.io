@@ -9,12 +9,11 @@ profile:
   image: fabio_ufopa.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Radboud University</p>
-    <p>Faculty of Science</p>
-    <p>Institute for Computing and Information Sciences</p>
-    <p>Toernooiveld 212</p>
-    <p>6525 EC Nijmegen, NL</p>
-
+    <p>Federal University of Western Pará</p>
+    <p>Engineering and Geoscience Institute</p>
+    <p>School of Computing</p>
+    <p>Rua Vera Paz, s/n (Unidade Tapajós) Bairro Salé | CEP 68040-255 </p>
+   <p> Santarém, Pará, Brazil</p>
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
