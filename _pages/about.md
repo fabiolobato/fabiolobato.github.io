@@ -39,7 +39,6 @@ Research Interests
 - Social CRM
 - Active Model learning
 - Project Management
-- Open Science
 
 <br/>
 
