@@ -14,9 +14,9 @@ profile:
     <p>School of Computing</p>
     <p>Rua Vera Paz, s/n (Unidade Tapajós) Bairro Salé | CEP 68040-255 </p>
    <p> Santarém, Pará, Brazil</p>
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
 In a recent report, [Gartner](https://www.gartner.com/doc/reprints?id=1-27IIPKYV&ct=210923&st=sb) has 
