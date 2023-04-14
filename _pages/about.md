@@ -27,7 +27,7 @@ I am Lecturer in Engineering and Geoscience Institute, [Federal University of We
 
 
 
-I'm leading the Applied Computing Research Group from UFOPA. I was visiting researcher at the University of Kent, UK, and Universidad Del País Vasco, ES, and Research Project Coordinator of the Prorectorate for Research and Innovation (UFOPA). I coordinate Research & Development projects funded by the [Brazilian National Council for Scientific and Technological Development (CNPq)](https://www.gov.br/cnpq/pt-br), [Amazônia Research Foundation (FAPESPA)](https://www.fapespa.pa.gov.br/).
+I'm leading the Applied Computing Research Group from UFOPA. I was visiting researcher at the University of Kent, UK, and Universidad Del País Vasco, ES, and Research Project Coordinator of the Prorectorate for Research and Innovation (UFOPA). I coordinate Research & Development projects funded by the [Brazilian National Council for Scientific and Technological Development (CNPq)](https://www.gov.br/cnpq/pt-br) and [Amazônia Research Foundation (FAPESPA)](https://www.fapespa.pa.gov.br/).
 
 
 Research Interests
