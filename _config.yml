@@ -260,8 +260,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: [Lobato]
-  first_name: [Fábio Manoel França]
+  last_name: [Einstein]
+  first_name: [Albert, A.]
 
   style: apa
   locale: en
