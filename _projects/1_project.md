@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: PRONEM (FAPESPA/CNPq)
+Aprendizado de máquina para otimizar sistema de gestão de relacionamento com os clientes nas mídias sociais
+description: Machine learning to optimize customer relationship management systems on social media
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: Research & Development
 ---
 
 Every project has a beautiful feature showcase page.
