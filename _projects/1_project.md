@@ -5,7 +5,7 @@ Aprendizado de máquina para otimizar sistema de gestão de relacionamento com o
 description: Machine learning to optimize customer relationship management systems on social media
 img: assets/img/12.jpg
 importance: 1
-category: Research & Development
+category: Research
 ---
 
 Every project has a beautiful feature showcase page.
