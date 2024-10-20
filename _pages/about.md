@@ -37,8 +37,7 @@ Research Interests
 - Deep Learning
 - Text mining
 - Social CRM
-- Active Model learning
-- Project Management
+- Neuronal Morphologies
 
 <br/>
 
