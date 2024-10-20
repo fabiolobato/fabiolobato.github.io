@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Lecturer @ UFOPA / UEMA; CNPq Fellowship; Passionate data scientist.
+subtitle: Senior Lecturer @ UFOPA / UEMA; CNPq Fellow; Passionate data scientist.
 
 profile:
   align: right
