@@ -1,8 +1,9 @@
 ---
 layout: cv
 permalink: /Memorial/
-title: cv
+title: Memorial ===>
 nav: true
 nav_order: 4
+cv_pdf: memorial.pdf
 cv_pdf: memorial.pdf
 ---
