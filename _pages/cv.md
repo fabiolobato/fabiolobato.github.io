@@ -1,5 +1,5 @@
 ---
-layout: Memorial
+layout: cv
 permalink: /Memorial/
 title: Memorial
 nav: true
