@@ -6,7 +6,7 @@ subtitle: Senior Lecturer @ UFOPA / UEMA; CNPq Fellow; Passionate data scientist
 
 profile:
   align: right
-  image: IMG_2318.jpeg
+  image: IMG_2318copy.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Federal University of Western Pará</p>
