@@ -1,9 +1,9 @@
 ---
 layout: cv
-permalink: /Memorial/
-title: Memorial 
+permalink: /curriculum vitae/
+title: Curriculum Vitae
 nav: true
 nav_order: 4
-cv_pdf: memorial.pdf
+cv_pdf: cv.pdf
 
 ---
