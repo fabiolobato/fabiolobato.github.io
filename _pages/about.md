@@ -19,18 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-
-
-In a well-connected world, the pervasiveness and impact of **social media** and **artificial intelligence** in our daily lives are unquestionable. A key phenomenon emerging from this reality is the massive production of user-generated content, a powerful data source for understanding customer behavior. This data has driven innovation in traditional approaches such as Customer Relationship Management (CRM), leading to the concept of **Social CRM**. This approach integrates social media insights with conventional CRM systems through intelligent tools to enhance **decision-making** and provide **new analytical capabilities**.
-
-Considering the economic importance of Micro, Small, and Medium Enterprises (MSMEs)—which represent about **90% of businesses and more than 50% of global employment**, according to the World Bank—my research has focused on answering two critical questions: 
-
-- **1. How can social media improve MSMEs' competitiveness?** 
-- **2. How can artificial intelligence provide new analytical capabilities to Social CRM systems?**
-
-Addressing these challenges requires an interdisciplinary approach, integrating Information Systems, Data Science, Communication/Marketing, Law, and related fields. My research program embraces the synergies between these areas to design **intelligent solutions for the complex MSME problems of today and tomorrow**.
-
-I am Lecturer in Engineering and Geoscience Institute, [Federal University of Western Pará (UFOPA)](http://www.ufopa.edu.br/ufopa/), Brazil; and also Associate lecturer at the [State University of Maranhão (UEMA)](https://www.uema.br/), Brazil. Working primarily on Data Science, Social Networks/Media Analysis and Mining. I have the privilege of actively collaborating with [Prof. Dr. Reiner Alt](https://www.wifa.uni-leipzig.de/personenprofil/mitarbeiter/prof-dr-rainer-alt) and [Dr. Olaf Reinhold](https://www.linkedin.com/in/olafreinhold/) from Universität Leipzig and the [Social CRM Research Center (SCRC)](https://scrc-leipzig.de/startseite); [Profa. Dra. Solange Rezende](http://labic.icmc.usp.br/pessoa/1) and [Dr. Ricardo Marcacini](http://labic.icmc.usp.br/pessoa/16) from University of São Paulo. 
+I am Lecturer in Engineering and Geoscience Institute, [Federal University of Western Pará (UFOPA)](http://www.ufopa.edu.br/ufopa/), Brazil; and also Associate lecturer at the [State University of Maranhão (UEMA)](https://www.uema.br/), Brazil. Working primarily on Data Science, Social Networks/Media Analysis and Mining. I have the privilege of actively collaborating with [Prof. Dr. Reiner Alt](https://www.wifa.uni-leipzig.de/personenprofil/mitarbeiter/prof-dr-rainer-alt) and [Dr. Olaf Reinhold](https://www.linkedin.com/in/olafreinhold/) from Universität Leipzig and the [Social CRM Research Center (SCRC)](https://scrc-leipzig.de/startseite); [Profa. Dra. Solange Rezende](http://labic.icmc.usp.br/pessoa/1) and [Dr. Ricardo Marcacini](http://labic.icmc.usp.br/pessoa/16) from University of São Paulo; [Dr. Roberto Santana](http://www.sc.ehu.es/ccwbayes/members/rsantana/) from Universidad Del País Vasco.
 
 
 I have expertise in **Artificial Intelligence, Data Science, and Decision Support Systems**, focusing on machine learning, predictive analytics, and statistical modeling. My skills include applied research, technological development, and innovation, encompassing the design and implementation of **intelligent systems, natural language processing (NLP), large language models (LLMs), and knowledge-based systems**. I have experience developing scalable AI architectures, fine-tuning transformer-based models, and integrating AI solutions into real-world applications.
@@ -41,8 +30,8 @@ I excel in **analytical thinking, complex problem-solving, and strategic decisio
 
 
 
-I lead the Applied Computing Research Group at UFOPA and have been a visiting researcher at the University of Kent, UK, and Universidad Del País Vasco, Spain. Additionally, I served as a Research Project Coordinator at the Prorectorate for Research and Innovation (UFOPA). I coordinate Research & Development projects funded by the [Brazilian National Council for Scientific and Technological Development (CNPq)](https://www.gov.br/cnpq/pt-br) and [Amazônia Research Foundation (FAPESPA)](https://www.fapespa.pa.gov.br/), driving innovation at the intersection of AI, social media, and business intelligence.
-.
+I lead the Applied Computing Research Group at UFOPA and have been a visiting researcher at the University of Kent, UK, and Universidad Del País Vasco, Spain. Additionally, I served as a Research Project Coordinator at the Prorectorate for Research and Innovation (UFOPA). I coordinate Research & Development projects funded by the [Brazilian National Council for Scientific and Technological Development (CNPq)](https://www.gov.br/cnpq/pt-br), [Amazônia Research Foundation (FAPESPA)](https://www.fapespa.pa.gov.br/) and [Financier of Studies and Projects (FINEP)](https://www.finep.gov.br/), driving innovation at the intersection of AI, social media, and business intelligence.
+
 
 
 Research Interests
@@ -51,6 +40,7 @@ Research Interests
 - Social Media Analysis
 - Deep Learning
 - Text mining
+- (Large and Not so Large) Language Models
 - Social CRM
 - Bioinformatics
 
