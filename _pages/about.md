@@ -2,47 +2,40 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior Lecturer @ UFOPA / UEMA; CNPq Fellow; Passionate data scientist.
+subtitle: Senior Lecturer @ ICMC-USP; CNPq Fellow; Passionate data scientist.
 
 profile:
   align: right
   image: IMG_2318copy.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Federal University of Western Pará</p>
-    <p>School of Computing</p>
-    <p>Engineering and Geoscience Institute</p>
-    <p>Santarém, Pará, Brazil</p>
+    <p>University of São Paulo</p>
+    <p>Institute of Mathematics and Computer Sciences</p>
+    <p>Computer Science Departament</p>
+    <p>São Carlos, SP, Brazil</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am Lecturer in Engineering and Geoscience Institute, [Federal University of Western Pará (UFOPA)](http://www.ufopa.edu.br/ufopa/), Brazil; and also Associate lecturer at the [State University of Maranhão (UEMA)](https://www.uema.br/), Brazil. Working primarily on Data Science, Social Networks/Media Analysis and Mining. I have the privilege of actively collaborating with [Prof. Dr. Reiner Alt](https://www.wifa.uni-leipzig.de/personenprofil/mitarbeiter/prof-dr-rainer-alt) and [Dr. Olaf Reinhold](https://www.linkedin.com/in/olafreinhold/) from Universität Leipzig and the [Social CRM Research Center (SCRC)](https://scrc-leipzig.de/startseite); [Profa. Dra. Solange Rezende](http://labic.icmc.usp.br/pessoa/1) and [Dr. Ricardo Marcacini](http://labic.icmc.usp.br/pessoa/16) from University of São Paulo; [Dr. Roberto Santana](http://www.sc.ehu.es/ccwbayes/members/rsantana/) from Universidad Del País Vasco.
+I am a Senior Lecturer at the [Institute of Mathematics and Computer Sciences (ICMC)](https://www.icmc.usp.br/), [University of São Paulo (USP)](https://www.usp.br/), Brazil. Previously, I was a Senior Lecturer at the Engineering and Geoscience Institute, [Federal University of Western Pará (UFOPA)](http://www.ufopa.edu.br/ufopa/) (2014–2026), and served as an Associate Lecturer at the [State University of Maranhão (UEMA)](https://www.uema.br/), Brazil. I have the privilege of actively collaborating with [Prof. Dr. Rainer Alt](https://www.wifa.uni-leipzig.de/personenprofil/mitarbeiter/prof-dr-rainer-alt) and [Dr. Olaf Reinhold](https://www.linkedin.com/in/olafreinhold/) from Universität Leipzig and the [Social CRM Research Center (SCRC)](https://scrc-leipzig.de/startseite); [Profa. Dra. Solange Rezende](http://labic.icmc.usp.br/pessoa/1) and [Dr. Ricardo Marcacini](http://labic.icmc.usp.br/pessoa/16) from the University of São Paulo; and [Dr. Roberto Santana](http://www.sc.ehu.es/ccwbayes/members/rsantana/) from Universidad Del País Vasco.
 
-
-I have expertise in **Artificial Intelligence, Data Science, and Decision Support Systems**, focusing on machine learning, predictive analytics, and statistical modeling. My skills include applied research, technological development, and innovation, encompassing the design and implementation of **intelligent systems, natural language processing (NLP), large language models (LLMs), and knowledge-based systems**. I have experience developing scalable AI architectures, fine-tuning transformer-based models, and integrating AI solutions into real-world applications.
-
+I have expertise in **Artificial Intelligence, Data Science, and Decision Support Systems**, focusing on machine learning, predictive analytics, and statistical modeling. My skills include applied research, technological development, and innovation, encompassing the design and implementation of **intelligent systems, Natural Language Processing (NLP), Large Language Models (LLMs), and knowledge-based systems**. I have experience developing scalable AI architectures, fine-tuning transformer-based models, and integrating AI solutions into real-world applications.
 
 I excel in **analytical thinking, complex problem-solving, and strategic decision-making**, leveraging data-driven insights to optimize AI-driven solutions. My ability to **collaborate across interdisciplinary teams** ensures effective knowledge transfer and fosters innovation. Additionally, I have **strong communication skills**, allowing me to translate complex technical concepts into actionable insights for researchers, industry professionals, and policymakers.
 
-
-
-
-I lead the Applied Computing Research Group at UFOPA and have been a visiting researcher at the University of Kent, UK, and Universidad Del País Vasco, Spain. Additionally, I served as a Research Project Coordinator at the Prorectorate for Research and Innovation (UFOPA). I coordinate Research & Development projects funded by the [Brazilian National Council for Scientific and Technological Development (CNPq)](https://www.gov.br/cnpq/pt-br), [Amazônia Research Foundation (FAPESPA)](https://www.fapespa.pa.gov.br/) and [Financier of Studies and Projects (FINEP)](https://www.finep.gov.br/), driving innovation at the intersection of AI, social media, and business intelligence.
-
+I lead the <a href="https://laca-ufopa.com.br/">Applied Computing Study and Research Group (GREP.ComPA-UFOPA)</a> and founded the Applied Computing Laboratory (LACA). I held visiting and postdoctoral researcher positions at the [University of Kent](https://www.kent.ac.uk/), UK, and [Universidad Del País Vasco](https://www.ehu.eus/), Spain. Additionally, I served as an AI Specialist and MCTI consultant for the G20 Digital Economy Working Group in partnership with UNESCO, as an Associate Editor for *Electronic Markets*, and as a Research & Technological Innovation Project Coordinator at UFOPA. I coordinate and participate in R&D projects funded by the [Brazilian National Council for Scientific and Technological Development (CNPq)](https://www.gov.br/cnpq/pt-br), [Amazônia Research Foundation (FAPESPA)](https://www.fapespa.pa.gov.br/), and [Financier of Studies and Projects (FINEP)](https://www.finep.gov.br/), driving innovation at the intersection of AI, social media, and business intelligence.
 
 
 Research Interests
 ------
 
-- Social Media Analysis
-- Deep Learning
-- Text mining
-- (Large and Not so Large) Language Models
-- Social CRM
-- Bioinformatics
+- Artificial Intelligence & Machine Learning
+- Natural Language Processing & Language Models
+- Social Media & Network Analysis
+- Social CRM & Business Intelligence
+- Bioinformatics & Computational Biology
 
 <br/>
 
